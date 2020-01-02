@@ -29,7 +29,7 @@
       <description>Du hast eine Frage zu den Luzerner Rollenspieltagen?
 Oder du möchtest gerne eine Runde leiten?
 Wir hören gerne von dir und antworten dir auch innerhalb von 24 Stunden.
- Name * E-Mail * Nachricht *     </description>
+ Name * E-Mail * Nachricht *  Leer lassen document.querySelector(&#39;.c-form--captcha&#39;).style.display = &#39;none&#39;;    </description>
     </item>
     
     <item>
