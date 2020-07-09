@@ -1,78 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Startseite on Luzerner Rollenspieltage</title>
-    <link>https://rollenspieltage.ch/</link>
-    <description>Recent content in Startseite on Luzerner Rollenspieltage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://rollenspieltage.ch/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Program Overview</title>
-      <link>https://rollenspieltage.ch/program_overview/</link>
-      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rollenspieltage.ch/program_overview/</guid>
-      <description>Hint: This page is only for the organization and show an overview for all GMs and and overview for all rounds.
-  Login * Password *    Rounds  GMs  Players     &#39;use strict&#39;; async function main(event) { event.preventDefault(); const loginForm = document.getElementById(&#39;apollon-login-form&#39;); const username = loginForm.querySelector(&#39;#login&#39;); const password = loginForm.querySelector(&#39;#password&#39;); const apollon = new ApollonModel({ server: &#39;https://api.gildedernacht.ch&#39;, username: username.value, password: password.value }); username.</description>
-    </item>
-    
-    <item>
-      <title>Kontakt</title>
-      <link>https://rollenspieltage.ch/contact/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rollenspieltage.ch/contact/</guid>
-      <description>Du hast eine Frage zu den Luzerner Rollenspieltagen?
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Startseite on Luzerner Rollenspieltage</title><link>https://rollenspieltage.ch/</link><description>Recent content in Startseite on Luzerner Rollenspieltage</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://rollenspieltage.ch/index.xml" rel="self" type="application/rss+xml"/><item><title>Programm</title><link>https://rollenspieltage.ch/program/</link><pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate><guid>https://rollenspieltage.ch/program/</guid><description>Samstag Runden werden geladen. Danke für deine Geduld. Sonnntag Runden werden geladen. Danke für deine Geduld.</description></item><item><title>Kontakt</title><link>https://rollenspieltage.ch/contact/</link><pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate><guid>https://rollenspieltage.ch/contact/</guid><description>Du hast eine Frage zu den Luzerner Rollenspieltagen?
 Oder du möchtest gerne eine Runde leiten?
 Wir hören gerne von dir und antworten dir auch innerhalb von 24 Stunden.
- Name * E-Mail * Nachricht *  Leer lassen document.querySelector(&#39;.c-form--captcha&#39;).style.display = &#39;none&#39;;    Fehler: Deine Nachricht wurde leider als SPAM markiert und nicht weitergeleitet. Versuche es bitte erneut.  Vielen Dank für deine Nachricht!   &#39;use strict&#39;; const getQueryVariable = (variable) = { const query = window.</description>
-    </item>
-    
-    <item>
-      <title>Links</title>
-      <link>https://rollenspieltage.ch/links/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rollenspieltage.ch/links/</guid>
-      <description>Die folgenden Links wurden vom Organisationskomitee der Rollenspieltage ausgewählt (und sind daher subjektiv). Wenn du den Eindruck hast, dass hier ein wichtiger Link fehlt, dann schreibe uns doch bitte eine Nachricht, mit deinem Vorschlag.
+Name * E-Mail * Nachricht * Leer lassen document.querySelector('.c-form--captcha').style.display = 'none'; Fehler: Deine Nachricht wurde leider als SPAM markiert und nicht weitergeleitet. Versuche es bitte erneut. Vielen Dank für deine Nachricht! 'use strict'; const getQueryVariable = (variable) = { const query = window.</description></item><item><title>Links</title><link>https://rollenspieltage.ch/links/</link><pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate><guid>https://rollenspieltage.ch/links/</guid><description>Die folgenden Links wurden vom Organisationskomitee der Rollenspieltage ausgewählt (und sind daher subjektiv). Wenn du den Eindruck hast, dass hier ein wichtiger Link fehlt, dann schreibe uns doch bitte eine Nachricht, mit deinem Vorschlag.
 Lieben Dank
 Keiner der folgenden Link ist ein Affiliate-Link. Kostenpflichtige Links sind jeweils entsprechend gekennzeichnet ($).
-  Quelle: Cataclysm von Gene Raz von Edler | Copyright ©    Geschichten Story Generator (tvtropes.org)</description>
-    </item>
-    
-    <item>
-      <title>Newsletter</title>
-      <link>https://rollenspieltage.ch/newsletter/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rollenspieltage.ch/newsletter/</guid>
-      <description> Vorname *   Nachname *   E-Mail Adresse *  Interessen Luzerner Spieltage Brettspiele Luzerner Rollenspieltage Rollenspiele Luzerner Tabletoptag Tabletop  Bitte wähle mindestens ein Interesse aus.
-      (function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = &#39;EMAIL&#39;; ftypes[0] = &#39;email&#39;; fnames[1] = &#39;FNAME&#39;; ftypes[1] = &#39;text&#39;; fnames[2] = &#39;LNAME&#39;; ftypes[2] = &#39;text&#39;; }(jQuery)); var $mcj = jQuery.noConflict(true);   </description>
-    </item>
-    
-    <item>
-      <title>Rollenspiel?</title>
-      <link>https://rollenspieltage.ch/roleplay/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rollenspieltage.ch/roleplay/</guid>
-      <description>Was ist ein Rollenspiel? Ein Rollenspiel, wie es an unserem Anlass gespielt wird, wird auch oft als Tabletop Rollenspiel (da man an einem Tisch spielt) oder Pen-&amp;amp;-Paper-Rollenspiel (oft mit Stift und Papier) genannt.
-Du kannst dir darunter eine Spielrunde vorstellen, aus durchschnittlich 3-5 Personen, welche gemeinsam eine Geschichte erzählt. Man kann es gut mit einem Improvisationstheater vergleichen. Dazu kommen je nach Runde Spielregeln dazu, die sich oft in Form von Würfeln manifestieren, die die Geschichte in eine Richtung katapultieren können, wie du es dir zu Beginn gar nicht hättest vorstellen können.</description>
-    </item>
-    
-    <item>
-      <title>Verhaltenskodex</title>
-      <link>https://rollenspieltage.ch/coc/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rollenspieltage.ch/coc/</guid>
-      <description>Ein wichtiges Anliegen der Organisation ist es, dass die Luzerner Rollenspieltage für alle Besucher als schöne und sichere Veranstaltung in Erinnerung bleiben wird. Dementsprechend werden wir keinerlei Verhalten tolerieren, das als Belästigung oder Übergriff wahrgenommen wird, einschliesslich Sexismus, Rassismus, Antisemitismus, Homo- oder Transphobie sowie Diskriminierung aufgrund von Behinderung, Alter, Aussehen, Herkunft oder Religion.
-Wenn eine Person sich an den Rollenspieltagen so verhält, dass du oder jemand anderes sich dadurch unsicher, unwohl oder unwillkommen fühlt, melde das bitte der Organisatoren.</description>
-    </item>
-    
-  </channel>
-</rss>
+Quelle: Cataclysm von Gene Raz von Edler | Copyright © Geschichten Story Generator (tvtropes.org)
+Die Internetseite tvtropes.</description></item><item><title>Newsletter</title><link>https://rollenspieltage.ch/newsletter/</link><pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate><guid>https://rollenspieltage.ch/newsletter/</guid><description> Vorname * Nachname * E-Mail Adresse * Interessen Luzerner Spieltage Brettspiele Luzerner Rollenspieltage Rollenspiele Luzerner Tabletoptag Tabletop Bitte wähle mindestens ein Interesse aus.
+(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);</description></item><item><title>Rollenspiel?</title><link>https://rollenspieltage.ch/roleplay/</link><pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate><guid>https://rollenspieltage.ch/roleplay/</guid><description>Was ist ein Rollenspiel? Ein Rollenspiel, wie es an unserem Anlass gespielt wird, wird auch oft als Tabletop Rollenspiel (da man an einem Tisch spielt) oder Pen-&amp;amp;-Paper-Rollenspiel (oft mit Stift und Papier) genannt.
+Du kannst dir darunter eine Spielrunde vorstellen, aus durchschnittlich 3-5 Personen, welche gemeinsam eine Geschichte erzählt. Man kann es gut mit einem Improvisationstheater vergleichen. Dazu kommen je nach Runde Spielregeln dazu, die sich oft in Form von Würfeln manifestieren, die die Geschichte in eine Richtung katapultieren können, wie du es dir zu Beginn gar nicht hättest vorstellen können.</description></item><item><title>Verhaltenskodex</title><link>https://rollenspieltage.ch/coc/</link><pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate><guid>https://rollenspieltage.ch/coc/</guid><description>Ein wichtiges Anliegen der Organisation ist es, dass die Luzerner Rollenspieltage für alle Besucher als schöne und sichere Veranstaltung in Erinnerung bleiben wird. Dementsprechend werden wir keinerlei Verhalten tolerieren, das als Belästigung oder Übergriff wahrgenommen wird, einschliesslich Sexismus, Rassismus, Antisemitismus, Homo- oder Transphobie sowie Diskriminierung aufgrund von Behinderung, Alter, Aussehen, Herkunft oder Religion.
+Wenn eine Person sich an den Rollenspieltagen so verhält, dass du oder jemand anderes sich dadurch unsicher, unwohl oder unwillkommen fühlt, melde das bitte der Organisatoren.</description></item></channel></rss>
