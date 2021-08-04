@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Startpage on Luzerner Rollenspieltage</title><link>https://rollenspieltage.ch/en/</link><description>Recent content in Startpage on Luzerner Rollenspieltage</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://rollenspieltage.ch/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Program</title><link>https://rollenspieltage.ch/en/program/</link><pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate><guid>https://rollenspieltage.ch/en/program/</guid><description>If not specifically noted, the rounds will be played in German.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Startpage on Luzerner Rollenspieltage</title><link>https://rollenspieltage.ch/en/</link><description>Recent content in Startpage on Luzerner Rollenspieltage</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://rollenspieltage.ch/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Edit registration</title><link>https://rollenspieltage.ch/en/edit/</link><pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate><guid>https://rollenspieltage.ch/en/edit/</guid><description> window.apollonEditMode = true;</description></item><item><title>Registration</title><link>https://rollenspieltage.ch/en/registration/</link><pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate><guid>https://rollenspieltage.ch/en/registration/</guid><description/></item><item><title>Live Chat</title><link>https://rollenspieltage.ch/en/livechat/</link><pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate><guid>https://rollenspieltage.ch/en/livechat/</guid><description>Here you can exchange messages directly with us.
+If no one answers within a few minutes, probably none of us is online. In this case send us a message via contact form.
+Message History
+No messages so far
+Enter a message
+Choose your display name *
+Your message *
+const language = 'en';
+const authorInput = document.getElementById("hermes-author");
+const messageInput = document.getElementById("hermes-send");
+const messageHistory = [];
+function randomFromTo(fromInclusive, toInclusive) {
+return (
+Math.</description></item><item><title>Program</title><link>https://rollenspieltage.ch/en/program/</link><pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate><guid>https://rollenspieltage.ch/en/program/</guid><description>If not specifically noted, the rounds will be played in German.
 Saturday 29. August 2020
 Rounds are being loaded. Thanks for your patience. Sunday 30. August 2020
 Rounds are being loaded. Thanks for your patience. Registration The role play rounds and the registration take place on a specially prepared discord server. Click on the following link to open the server: https://discord.gg/ThDXTwP
